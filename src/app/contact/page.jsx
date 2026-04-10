@@ -8,3 +8,8 @@ const contact = () => {
 };
 
 export default contact;
+
+export const metadata = {
+    title: "Contact",
+    description: "...",
+};

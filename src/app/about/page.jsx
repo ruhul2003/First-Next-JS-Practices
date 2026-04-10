@@ -1,4 +1,7 @@
-
+export const metadata = {
+    title: "About",
+    description: "...",
+};
 
 const about = () => {
     return (
